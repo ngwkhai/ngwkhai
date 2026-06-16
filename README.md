@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Nguy%E1%BB%85n%20%C4%90%C3%ACnh%20Kh%E1%BA%A3i&fontSize=70&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20AI%20Researcher%20%7C%20Data%20Scientist&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Nguy%E1%BB%85n%20%C4%90%C3%ACnh%20Kh%E1%BA%A3i&fontSize=70&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20AI%20Researcher%20&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;AI+Engineer+%7C+AI+Researcher;LLMs+%7C+NLP+%7C+Computer+Vision;Turning+Ideas+into+AI+Products;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;AI+Engineer+%7C+AI+Researcher;LLMs+%7C+NLP+%7C+Computer+Vision;Turning+Ideas+into+AI+Products;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -34,13 +34,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Mailbox" width="30" height="30" /> Connect With Me
 
 <div align="center">
-  <a href="mailto:23020384@vnu.edu.vn">
-    <img src="https://img.shields.io/badge/Email-23020384%40vnu.edu.vn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:nguyendinhkhaiqt2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nguyendinhkhaiqt2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ngwkhai">
     <img src="https://img.shields.io/badge/GitHub-ngwkhai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/ngwkhai">
     <img src="https://img.shields.io/badge/LinkedIn-Nguy%E1%BB%85n%20%C4%90%C3%ACnh%20Kh%E1%BA%A3i-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/ngw.dinh.khai">
@@ -99,34 +99,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Natural Language to Project Planner</h3>
-      <p>An AI system that converts natural language documents such as README, SRS, and project proposals into structured project folder trees.</p>
-      <p><b>Tech:</b> T5, FLAN-T5, CodeT5, Phi-3, QLoRA, Hugging Face</p>
-    </td>
-    <td width="50%">
-      <h3>Vietnamese Diacritics Restoration</h3>
-      <p>A Transformer-based sequence-to-sequence model for restoring Vietnamese diacritics from non-accented text.</p>
-      <p><b>Tech:</b> Transformer, NLP, BLEU, ChrF++, PyTorch</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Real-time License Plate Recognition</h3>
-      <p>A real-time vehicle license plate recognition system using object detection and OCR for practical traffic-related applications.</p>
-      <p><b>Tech:</b> YOLOv5, OCR, FastAPI, Docker</p>
-    </td>
-    <td width="50%">
-      <h3>YOLOv1 with CBAM from Scratch</h3>
-      <p>An object detection project that implements YOLOv1 with CBAM attention for fruit detection across multiple classes.</p>
-      <p><b>Tech:</b> YOLOv1, CBAM, Computer Vision, Deep Learning</p>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <b>Research Mindset</b> · <b>Engineering Execution</b> · <b>Product Thinking</b>
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
